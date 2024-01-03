@@ -1,4 +1,4 @@
-### Hi, I'm Sankyu Tang 👋
+### Hi, I'm Sankyu Tong 👋
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fsankyutang&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/sankyutang)
 [![Twitter](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2Fimsankyu&query=count&color=1da1f2&label=Twitter&labelColor=282c34&logo=twitter&suffix=+follows&cacheSeconds=3600)](https://twitter.com/imsankyu)
