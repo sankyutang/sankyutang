@@ -8,8 +8,9 @@
 
 
 
-- 🍻 Live in 🇨🇳 [guangzhou](https://en.wikipedia.org/wiki/Guangzhou) 
-- ⚡ JavaScript / TypeScript / Node.js / Next.js
+- 🍻 Live in 🇨🇳 [guangzhou](https://en.wikipedia.org/wiki/Guangzhou)
+- Full-Stack Engineer
+- ⚡ JavaScript / TypeScript / Node.js / React / Next.js
 - ✍️ [Blogger](https://sankyu.me)
 - 🏃 Coding / Reading / Writing / Football / Climber / Scuba Diving
 
