@@ -12,7 +12,7 @@
 - Full-Stack Engineer
 - ⚡ JavaScript / TypeScript / Node.js / React / Next.js
 - ✍️ [Blogger](https://sankyu.me)
-- 🏃 Coding / Reading / Writing / Football / Climber / Scuba Diving
+- 🏃 Coding / Reading / Writing / Football / Trekking / Scuba Diving
 
 
 
