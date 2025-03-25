@@ -16,7 +16,7 @@
 
 ### Product
 
--- NotesToNotion: [Website](https://notes2notion.notionify.net) / [Github](https://github.com/sankyutang/NotesToNotion) / [Chrome Extension](https://chromewebstore.google.com/detail/notestonotion/kejikhjbefjpnobllkoodgfjlaciijgp)
+- NotesToNotion: [Website](https://notes2notion.notionify.net) / [Github](https://github.com/sankyutang/NotesToNotion) / [Chrome Extension](https://chromewebstore.google.com/detail/notestonotion/kejikhjbefjpnobllkoodgfjlaciijgp)
 
 
 <!--
