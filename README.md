@@ -9,11 +9,14 @@
 
 
 - 🍻 Live in 🇨🇳 [guangzhou](https://en.wikipedia.org/wiki/Guangzhou)
-- Full-Stack Engineer
+- Full-Stack Engineer / India hacker
 - ⚡ JavaScript / TypeScript / Node.js / React / Next.js
 - ✍️ [Blogger](https://sankyu.me)
 - 🏃 Coding / Reading / Writing / Football / Trekking / Scuba Diving
 
+### Product
+
+-- NotesToNotion: [Website](https://notes2notion.notionify.net) / [Github](https://github.com/sankyutang/NotesToNotion) [Chrome Extension](https://chromewebstore.google.com/detail/notestonotion/kejikhjbefjpnobllkoodgfjlaciijgp)
 
 
 <!--
