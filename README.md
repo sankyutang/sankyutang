@@ -16,7 +16,7 @@
 
 ### Product
 
-- SoloOS - One Person Company OS(OPC): [Website](https://soloos.co) / [Notion Marketplace](https://www.notion.so/templates/one-person-company-os?utm_source=github&utm_medium=homepage&utm_campaign=profile)
+- SoloOS - OPC(One Person Company) Notion OS template: [Website](https://soloos.co) / [Notion Marketplace](https://www.notion.so/templates/one-person-company-os?utm_source=github&utm_medium=homepage&utm_campaign=profile)
 - NotesToNotion: [Website](https://notes2notion.notionify.net) / [Github](https://github.com/sankyutang/NotesToNotion) / [Chrome Extension](https://chromewebstore.google.com/detail/notestonotion/kejikhjbefjpnobllkoodgfjlaciijgp)
 
 
